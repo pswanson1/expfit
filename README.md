@@ -1,4 +1,4 @@
-*Function for an Exponential fit for MATLAB without curve fitting toolbox
+*Function for an Exponential fit for MATLAB without curve fitting toolbox*
 
 I had to create a exponential fit
 I did not have the `proper package'
