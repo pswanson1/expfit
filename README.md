@@ -1,7 +1,7 @@
 *Function for an Exponential fit for MATLAB without curve fitting toolbox*
 
-I had to create a exponential fit
-I did not have the `proper package'
+I had some data ponts and I wanted to fit them exponentially...\n
+*I did not have the `proper package'* So I made this goofy function...
 This is pretty niche and worked for my specific problem
 
 *This function takes two vectors, x and y then does a polyfit
